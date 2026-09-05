@@ -3,6 +3,8 @@
 Bienvenido al repositorio de la asignatura **Fundamentos de Programación** de la Universidad Estatal Amazónica (UEA). Este espacio está destinado a almacenar actividades, ejercicios resueltos, prácticas de laboratorio y proyectos desarrollados a lo largo del curso.
 
 ---
+Pero si escribo algo aqui se va a mostrar le cambio en el control
+de codigo fuentes
 
 ## 📌 Descripción del Repositorio
 
