@@ -34,7 +34,7 @@ for fila in estudiantes:
 print(f"El numero de hombres es: {Qhari}")
 print(f"El numero de mujeres es: {Warmi}")
 
-
+print(f"El total de registros del arreglo: {len(estudiantes)}")
 
 
 
